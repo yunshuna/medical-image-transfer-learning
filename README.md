@@ -40,7 +40,6 @@ For this project, we use three medical image datasets:
 The Herlev dataset is provided as an example. You can download the other datasets from the official sources:
 - **BreastMNIST**: [https://medmnist.com](https://medmnist.com)
 - **ISIC**: [https://isic-archive.com](https://isic-archive.com)
-- **Herlev Cervical Cell**: [http://mde-lab.aegean.gr/images/stories/docs/smear2005.zip] From the paper **Pap-smear Benchmark Data For Pattern Classification**
 -  **Herlev Cervical Cell**: [http://mde-lab.aegean.gr/images/stories/docs/smear2005.zip](http://mde-lab.aegean.gr/images/stories/docs/smear2005.zip)
 
 
