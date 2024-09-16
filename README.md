@@ -7,11 +7,8 @@ This repository contains code for training and evaluating a ResNet34-based model
 
 ```
 ├── Resnet
-│   ├── batch_predict.py         # Script for batch predictions
 │   ├── load_weights.py          # Script to load pre-trained weights
 │   ├── model.py                 # Definition of the ResNet34 model and other helper functions
-│   ├── predict.py               # Script to run inference on new images
-│   ├── train.py                 # Main training script
 │   ├── resnet34-pre.pth         # Pre-trained weights for ResNet34(need download by yourself see below link)
 │   ├── class_indices.json       # JSON file mapping class indices to labels
 │   ├── Fine-tuning.ipynb        # Jupyter notebook for fine-tuning the model
